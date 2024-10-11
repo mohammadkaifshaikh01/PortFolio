@@ -3,6 +3,10 @@
         "name": "ReactJS",
         "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"
     },
+<<<<<<< HEAD
+=======
+
+>>>>>>> d72ffc18d312345f5be1fc2efe63e6c26bb5cbf2
     {
         "name": "Redux",
         "icon": "https://img.icons8.com/color/48/000000/redux.png"
